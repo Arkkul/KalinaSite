@@ -1,5 +1,15 @@
 [
   {
+    "id": 2,
+    "name": "История Одного Курсора",
+     "img": "img/cursorTales.png",
+     "link": "https://kalinadevelopers.itch.io/cursor-story",
+     "description": "",
+     "category": "Аркада"
+    
+    
+  },
+  {
     "id": 1,
     "name": "Проект 404",
      "img": "img/ProjectPreview.png",
@@ -13,7 +23,7 @@
     "id": 2,
     "name": "Когда пиратишь игры",
      "img": "img/PirateGamesImg.png",
-     "link": "https://yandex.ru/games/app/261416?lang=ru",
+     "link": "https://kalinadevelopers.itch.io/torrentgame",
      "description": "",
      "category": "Аркада"
     
@@ -23,7 +33,7 @@
     "id": 3,
     "name": "Мечта кубика сахара",
      "img": "img/sugarDreamImg.png",
-     "link": "https://yandex.ru/games/app/241777?lang=ru",
+     "link": "https://kalinadevelopers.itch.io/dream-sugar",
      "description": "Даже у кубика сахара есть мечта!",
      "category": "Аркада"
     
