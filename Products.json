@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Проект 404",
+     "img": "img/ProjectPreview.png",
+     "link": "https://kalinadevelopers.itch.io/project-404",
+     "description": "Психологический хоррор с элементами выживания и шутера.",
+     "category": "Хоррор"
+    
+    
+  },
+  {
+    "id": 2,
+    "name": "Когда пиратишь игры",
+     "img": "img/PirateGamesImg.png",
+     "link": "https://yandex.ru/games/app/261416?lang=ru",
+     "description": "",
+     "category": "Аркада"
+    
+    
+  },
+  {
+    "id": 3,
+    "name": "Мечта кубика сахара",
+     "img": "img/sugarDreamImg.png",
+     "link": "https://yandex.ru/games/app/241777?lang=ru",
+     "description": "Даже у кубика сахара есть мечта!",
+     "category": "Аркада"
+    
+    
+  },
+  {
+    "id": 4,
+    "name": "Blood Pipe",
+     "img": "img/BloodPipeImg.png",
+     "link": "https://kalinadevelopers.itch.io/blood-pipe",
+     "description": "Закрутите все вентили, спустившись во тьму.",
+     "category": "Хоррор"
+    
+    
+  },
+  {
+    "id": 5,
+    "name": "МЫШИ захватили СКЛАД СЫРА!",
+     "img": "img/CatlineMiamiImg.png",
+     "link": "https://kalinadevelopers.itch.io/catline-miami",
+     "description": "Вам предстоит взять на себя роль смелого кота, чья задача - ловить и уничтожать безжалостных мышей, бродящих по складу сыра.",
+     "category": "Шутер"
+    
+    
+  }
+  
+  
+  
+]
